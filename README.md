@@ -1,2 +1,2 @@
 # python
- python code
+ python course code
