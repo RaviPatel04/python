@@ -29,4 +29,11 @@ with open("23.txt",'r') as f:
     data = f.read(5)
     print(data)
 
+# ---------------------------------------------------------------------------
+# length of each line
 
+with open('23.txt') as f:
+    line_number = 1
+    for line in f.readlines():
+        print(f"length of line {line_number}: {len(line)}")
+        line_number +=1
