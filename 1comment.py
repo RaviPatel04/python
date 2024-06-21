@@ -10,7 +10,7 @@ comment
 """muliti line 
 comment"""
 
-# Escape swquences
+# Escape sequences
 print("hello world!!!\nGood morning!!!")
 print("hii friends I study in \"computer engineering\"")
 

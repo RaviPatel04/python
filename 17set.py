@@ -13,14 +13,14 @@ print(type(s))
 for i in set1:
     print(i)
 
-# # Set Methods
+# Set Methods
 
-# print("Set Methods!!")
-# num = {1,2,3}
-# num2 = {1,4,5}
-# num3 = {2,3}
-# print(num.union(num2))
-# print(num.intersection(num2))
-# print(num.isdisjoint(num2))
-# print(num3.issubset(num))
-# print(num.issuperset(num2))
+print("Set Methods!!")
+num = {1,2,3}
+num2 = {1,4,5}
+num3 = {2,3}
+print(num.union(num2))
+print(num.intersection(num2))
+print(num.isdisjoint(num2))
+print(num3.issubset(num))
+print(num.issuperset(num2))

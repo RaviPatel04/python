@@ -11,6 +11,5 @@ def factorial(num):
 print(factorial(num))
 
 # fibonacci series
-
 def fibonacci():
     pass

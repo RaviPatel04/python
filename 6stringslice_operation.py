@@ -20,7 +20,7 @@ print(str.replace("morning", "evening"))
 print(str.upper())
 print(str.lower())
 
-str1 = "jsdb21"
+str1 = "python3"
 print(str1.isalnum())
 print(str1.isalpha())
 print(str1.isspace())

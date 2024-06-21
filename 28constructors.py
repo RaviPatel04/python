@@ -7,10 +7,10 @@ class college:
         self.branch = branch
 
     def info(self):
-        print(f"{self.enrollment_no} is in  {self.branch}")
+        print(f"{self.enrollment_no} is in {self.branch}")
 
 a = college(23, "computer engineering")
 a.info()
 
-b = college(13, "mechanical engineering")
+b = college(3, "mechanical engineering")
 b.info()

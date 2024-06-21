@@ -1,16 +1,16 @@
-# Dictionaries
+# Dictionaries(key:value pair)
 
-# dict = {
-#     "name" : "Ravi",
-#     "surname" : "Patel",
-#     "age" : "18",
-#     "study" : "computer engineering"
-# }
-# print(dict)
-# print(dict.keys())
-# print(dict.values())
-# print(dict["name"])
-# print(dict["study"])
+dict = {
+    "name" : "Ravi",
+    "surname" : "Patel",
+    "age" : "18",
+    "study" : "computer engineering"
+}
+print(dict)
+print(dict.keys())
+print(dict.values())
+print(dict["name"])
+print(dict["study"])
 
 # Dictionary Methods
 

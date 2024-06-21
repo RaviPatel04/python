@@ -9,7 +9,7 @@ c = college()
 print(c.enrollment_no, c.branch)
 
 c1 = college()
-c1.enrollment_no = 13
+c1.enrollment_no = 3
 c1.branch = "computer"
 print(c1.enrollment_no, c1.branch)
 

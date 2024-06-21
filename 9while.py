@@ -13,3 +13,13 @@ while(j > 0):
     j = j - 1
 else:
     print("decreamented While loop is terminated!!")
+
+
+b=0
+x=0
+while b<=10: #nested while
+    print ('here is the outer loop\n',b)
+    while x<=15:
+        print('here is the inner loop\n',x)
+        x=x+1
+    b=b+1

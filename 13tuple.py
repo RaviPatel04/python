@@ -1,13 +1,13 @@
 # Tuples 
 
-# tuple = (3,13,23,33,43)
-# print(tuple)
-# print(tuple[1])
-# print(tuple[-3])
-# print(tuple[4])
+tuple0 = (3,13,23,33,43)
+print(tuple0)
+print(tuple0[1])
+print(tuple0[-3])
+print(tuple0[4])
 
-# tuple2 = tuple[1:3]
-# print(tuple2)
+tuple2 = tuple0[1:3]
+print(tuple2)
 
 # Operations on Tuples 
 

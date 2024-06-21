@@ -20,7 +20,7 @@ b = 1
 isGreater(a, b)
 isLesser(a, b)
 
-c = 2
-d = 23
+c = int(input("Enter 1st num:"))
+d = int(input("Enter 2nd num:"))
 isGreater(c ,d)
 isLesser(c, d)

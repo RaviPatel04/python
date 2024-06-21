@@ -11,7 +11,7 @@ else:
 # result
 marks = int(input("\nEnter a marks between 1-70: "))
 
-if(marks <= 30):
+if(marks <= 23):
     print("Sorry!! you can try again!!")
 elif(marks <=70):
     print("Congratulation!! you have cleared!!")
@@ -24,7 +24,7 @@ b = int(input("Enter number b: "))
 c = int(input("Enter number c: "))
 
 if(a > b):
-    if(b > c):
+    if(a > c):
         print(a , " is large.")
     else:
         print(c , " is large.")

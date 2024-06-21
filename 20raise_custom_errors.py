@@ -3,7 +3,7 @@
 num = int(input("Enter a number positive number only:"))
 
 if(num < 0):
-    raise ValueError("You entered number should be negative!!")
+    raise ValueError("You entered number should be negative")
 
 print("Thank you!!")
 

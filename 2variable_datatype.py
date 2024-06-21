@@ -13,11 +13,16 @@ print("Type of a",type(d))
 # list:ordered collection of data. list are mutable or it can modified after creation
 list =[13,23,["hiii","python"]]
 print(list)
+list.append(["list", "mutable"])
+print(list)
 
 # tuple:ordered collection of data. tuples are immutable or it can't modified after creation.
 tuple = (("python","easy to understand"),("tuples","immutable"))
 print(tuple)
+# tuple.append(2) #throw error beacuse of immutable 
 
 # dictionary:unordered collection of data containing key values
 dict = {"name" : "ramesh","age":100,"healthy":"yes"}
+print(dict)
+dict["Fastfood"] = "No"
 print(dict)
