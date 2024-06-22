@@ -1,7 +1,11 @@
 # Tuples 
 
-tuple0 = (3,13,23,33,43)
+tuple0 = (1,2,3,4,5)
 print(tuple0)
+
+tuple0 = (3,13,23,33,43) # whole tuple replaced 
+print(tuple0)
+
 print(tuple0[1])
 print(tuple0[-3])
 print(tuple0[4])
